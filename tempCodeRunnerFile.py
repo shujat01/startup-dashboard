@@ -1,0 +1,3 @@
+])
+
+    st.pyplot(fig3)
